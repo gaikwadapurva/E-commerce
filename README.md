@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-    You happen to be a budding entrepreneur and you have come up with an idea to build an ecommerce giant like amazon, flipkart, walmart, etc. As part of this ambition, you want to build a platform to duplicate the concept of Limited Time Deals.
+You happen to be a budding entrepreneur and you have come up with an idea to build an ecommerce giant like amazon, flipkart, walmart, etc. As part of this ambition, you want to build a platform to duplicate the concept of Limited Time Deals.
     
 ### Limited Time Deals
 
